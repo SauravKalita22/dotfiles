@@ -14,7 +14,7 @@ config = {
 	background = {
 		{
 			source = {
-				File = "/Users/saurav/Pictures/lights.jpg",
+				File = "/Users/%user%/Pictures/lights.jpg",
 			},
 			hsb = {
 				hue = 1.0,
